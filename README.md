@@ -63,5 +63,4 @@ models except my own.
 > As you know, there are already many projects containing the same features (GSM Module, Call and SMS features) but ours uses a LTE(4G) module making it suitable for current situation
 > where many 2G and 3G communication services are being shutdown. Also usage of an mobile app for this kind of application is also not done before (In the context of Arduino mini projects).
 
-Thank you! For any queries and help regarding the projects contact to the E-Mail shravanthk05@gmail.com
 
